@@ -36,3 +36,14 @@ rede5: Blocked the area skipping with the electrical wires. Adjusted garg vs roy
 rede7: fixed repel grunts without custom models.
 rede8: fixed hideout door closing up before respawning all, leading to a soft lock if you have bad luck. Fixed telnorps moving and shooting beams in a wrong way.
 rede_db1: fixed env_beams causing low performance issues.
+
+- v1.4
+21/8/2023
+severed Drug Barons campaign from this pack.
+added basic save/load system. (disabled by dafault)
+added changelevel sprites. (disabled by dafault)
+added sven contra2 changelevel script to replace broken trigger_changesky.
+maps merged again: reduced to 9 maps.
+rede1: fixed suit not being picked up in the cascade area.
+rede7: fixed sentries not auto starting.
+

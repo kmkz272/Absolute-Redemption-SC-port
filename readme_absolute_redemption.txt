@@ -1,4 +1,4 @@
-Half Life: Absolute Redemption made by Maverick Studios, ported to Sven Co-op by kmkz. v1.3
+Half Life: Absolute Redemption made by Maverick Studios, ported to Sven Co-op by kmkz. v1.4
 
 1. Why/description
 2. Important notes 
@@ -102,6 +102,7 @@ are not mine and may have changes forced against my will.
 - Port to Sven Co-op by kmkz.
 - Some models taken from Darkgunner port of Absolute Redemption. 
 - Roy NPC: used the sample barney custom monster script as a base. Modified by kmkz.
+- trigger_changesky script taken from SvenContra2 map.
 - Other scripts: kmkz.
 - Thanks Vaelastrasz, Merilla and sv_boy for bug reports.
 
