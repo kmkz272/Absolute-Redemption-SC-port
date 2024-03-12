@@ -72,14 +72,3 @@ rede3m5a   |   rede3m5b |rede7 multiple paths:
 	   |		|
 	rede4m2		|
 	   		|
--------------------------------------------------------
-Drug barons paths
-
-	intro		|
-	  |		|rede_db1
-	drugs		|
-	  |		|-----
-	base		|
-	  |		|rede_db2
-	escape		|
--------------------------------------------------------

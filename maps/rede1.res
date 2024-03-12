@@ -198,3 +198,5 @@ sound/rede/roy/youwillregret.ogg
 sound/rede/shaolin/gong.ogg
 sound/rede/shaolin/monks.ogg
 sound/rede/shaolin/shaodoor.ogg
+sprites/gst/extra.spr
+sprites/gst/spritefont1.spr

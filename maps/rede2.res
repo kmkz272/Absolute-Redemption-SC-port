@@ -207,3 +207,5 @@ sound/rede/roy/youneedhelp.ogg
 sound/rede/roy/youtalktomuch.ogg
 sound/rede/roy/youwillregret.ogg
 sound/rede/shaolin/monks.ogg
+sprites/gst/extra.spr
+sprites/gst/spritefont1.spr

@@ -1,4 +1,4 @@
-Half Life: Absolute Redemption made by Maverick Studios, ported to Sven Co-op by kmkz. v1.4
+Half Life: Absolute Redemption made by Maverick Studios, ported to Sven Co-op by kmkz. v1.5
 
 1. Why/description
 2. Important notes 
@@ -44,10 +44,7 @@ if you want to avoid the long intro.
 5. Quality standars
 
 I try to have the maps series without bugs and i have been maintaining and improving 
-them in the last 7 years but is no easy task. Unlike other people i do not have
-a public server or a team to make a test so i have to do that alone. this mean that 
-i may miss problems that can only be seen when 2 or more players play the maps, now i
-added bots in my tests and i hope to improve the results. Worth saying that most of the
+them in the last 7 years but is no easy task. Worth saying that most of the
 ports i played (before 2019) had serious bugs and no one cares about it.
 
 -------------------------------------------------------------------------------------
@@ -67,11 +64,12 @@ about real issues and i am starting to believe they are just trolling.
 7. Download site
 
 https://github.com/kmkz272/
+gamebanana.com
 
 I am using github to store my Sven Co-op ports and scripts since is far better than 
 scmapdb, and so i am not using it anymore. This site has has been going downhill 
 in the last years and is not a safe place for mappers to upload their maps since the 
-incopetent administrators have been pushing and even forcing changes on other users 
+incompetent administrators have been pushing and even forcing changes on other users 
 maps based on their personal preferences, often making false reports in hope to gain 
 some kind of legitimacy to push their changes as a way to feel they are somehow 
 supporting the community since they are unwilling to keep themselves on their own 
