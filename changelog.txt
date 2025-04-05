@@ -47,13 +47,14 @@ maps merged again: reduced to 9 maps.
 rede1: fixed suit not being picked up in the cascade area.
 rede7: fixed sentries not auto starting.
 
-fixed human grunts and hev scientist displaying a wrong weapon
-adjusted some sounds hearing distance.
-
 - v1.5
 12/3/2024
 fixed human grunts displaying a wrong weapon
 adjusted some music and sounds.
 replaced trigger_cdaudio and target_cdaudio with ambient_music.
+
+- v1.5.1
+5/4/2025
+scripts update.
 
 
