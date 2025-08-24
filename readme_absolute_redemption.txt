@@ -1,4 +1,4 @@
-Half Life: Absolute Redemption made by Maverick Studios, ported to Sven Co-op by kmkz. v1.5.1
+Half Life: Absolute Redemption made by Maverick Studios, ported to Sven Co-op by kmkz. v1.5.2
 
 1. Description
 2. Important notes 
